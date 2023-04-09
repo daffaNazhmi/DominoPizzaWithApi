@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DOMINOORIGINAL</string>
+
+    <string-array name="kelas">
+        <item>Classic Handtossed</item>
+        <item>PAN Pizza</item>
+        <item>Crunchy Thin Crust</item>
+        <item>UPGRADE TO CHEESE BURST CRUST</item>
+        <item>UPGRADE TO DOUBLE CHEESE BURST CRUST</item>
+        <item>UPGRADE TO FRANKIE SAUSAGE CRUST</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
